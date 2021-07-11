@@ -1,0 +1,2 @@
+# internal_sharing_project
+社内における案件共有用のwebアプリ構築
